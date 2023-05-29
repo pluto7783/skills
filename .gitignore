@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+target/
+.cache/
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
